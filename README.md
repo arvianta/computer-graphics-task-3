@@ -1,4 +1,4 @@
-# Computer Graphics Task 3 - Web GL Tutorial
+# Computer Graphics Task 3 - WebGL Tutorial
 
 - Drawing a 2-D square with two triangles
 - Drawing a 3-D cube and show the other sides
@@ -80,7 +80,7 @@ function draw() {
 | Roof On  | ![2](./assets/2.png) | ![3](./assets/3.png) | ![4](./assets/4.png) | ![5](./assets/5.png) |
 | Roof Off | ![6](./assets/6.png) | ![7](./assets/7.png) | ![8](./assets/8.png) | ![9](./assets/9.png) |
 
-The cube was made by editing the original example code, and drawn multiple times to be able to show each angle. Here are the code snippets of the drawing and plotting process
+The cube was made by editing the original sample code, and drawn multiple times to be able to show each angle. Here are the code snippets of the drawing and plotting process.
 
 _Drawing and Plotting_
 ```javascript
