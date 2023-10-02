@@ -77,7 +77,7 @@ function draw() {
 ## Rotating 3-D Cube
 |          | Original POV | First Rotation | Second Rotation | Third Rotation |
 | -------- | ------------ | -------------- | --------------- | -------------- |
-| Root On  | ![2](./assets/2.png) | ![3](./assets/3.png) | ![4](./assets/4.png) | ![5](./assets/5.png) |
+| Roof On  | ![2](./assets/2.png) | ![3](./assets/3.png) | ![4](./assets/4.png) | ![5](./assets/5.png) |
 | Roof Off | ![6](./assets/6.png) | ![7](./assets/7.png) | ![8](./assets/8.png) | ![9](./assets/9.png) |
 
 The cube was made by editing the original example code, and drawn multiple times to be able to show each angle. Here are the code snippets of the drawing and plotting process
