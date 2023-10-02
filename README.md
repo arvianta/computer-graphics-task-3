@@ -5,6 +5,7 @@
 
 ## 2-D Square from Triangles
 ![1](./assets/1.png)
+
 The square was made by plotting two individual triangles to appropriate coordinates so that they merge into one an look like a single square. Here's the code snippet of the drawing and plotting process
 ```javascript
 function draw() {
